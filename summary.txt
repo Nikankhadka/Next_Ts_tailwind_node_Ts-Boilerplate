@@ -1,0 +1,4 @@
+//first install the next boiler plate with npx create-next-app meroghar --example with-typescript this command does not include the public and style folder
+use npx create-next-app meroghar --typescript
+
+setup eslint and prettier configuration for the application  https://paulintrognon.fr/blog/typescript-prettier-eslint-next-js
